@@ -34,8 +34,11 @@ Você pode criar um projeto novo usando Vue CLI:
 Executar projeto Vue.js
 
 Para rodar o projeto em modo desenvolvimento:
+```bash
+
 cd nome-do-projeto
+
 npm run serve
 
-```bash
+
 vue create nome-do-projeto
