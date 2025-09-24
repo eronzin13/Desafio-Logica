@@ -1,0 +1,7 @@
+@import './base.css';
+
+#app {
+  font-weight: normal;
+  color: rgb(30, 30, 30);
+  margin-top: 10px;
+}
